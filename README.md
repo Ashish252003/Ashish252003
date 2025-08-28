@@ -1,10 +1,6 @@
 <h1 align="center">Ashish Rawat</h1>
 <h3 align="center">Backend Developer | API Enthusiast | Clean Code Advocate</h3>
-    ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-   ~    A S H I S H   R A W A T           ~
-  ~  Backend Developer | API Enthusiast   ~
- ~        Hackathon Builder               ~
-    ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+ 
 
 
 ---
